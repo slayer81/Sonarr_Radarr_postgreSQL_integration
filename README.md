@@ -1,1 +1,2 @@
-# Sonarr_Radarr_postgreSQL_integration
+# Migrating Sonarr and Radarr from SQLite to postgreSQL
+
